@@ -5,6 +5,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-magdiedwar47%40gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:magdiedwar47@gmail.com)
 <br>
 [![Gmail](https://img.shields.io/badge/Gmail-magdyedwar1996%40gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:magdyedwar1996@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Magdy_Edwar-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/Mina_Karam)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Magdy_Edwar-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/magdiedwar47)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Magdy_Edwar-orange?logo=LeetCode&logoColor=orange&labelColor=black)](https://leetcode.com/magdiedwar47/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Magdy_Edwar_Farid-blue?logo=Codeforces&logoColor=white&labelColor=black)](https://codeforces.com/profile/Magdy_Edwar_Farid)
