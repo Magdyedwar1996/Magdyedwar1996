@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello👋, I'm Magdy Edwar Farid</h1>
-<h3 align="center">I'm passionate Embedded Systems || Embedded Linux || Bash Scripting || IoT|| AUTOSAR</h3>
+<h3 align="center">I'm passionate  Backend Engineering || DataBases || Embedded Systems || Embedded Linux || Bash Scripting || IoT|| AUTOSAR</h3>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
